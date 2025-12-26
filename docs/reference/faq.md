@@ -10,6 +10,8 @@ ProfyMob, SEO uzmanları için geliştirilmiş otomatik backlink üretim yazıl�
 ### Hangi platformları destekliyor?
 45+ aktif platform desteklenmektedir. Tam liste için [Desteklenen Platformlar](../platforms/supported-platforms.md) sayfasını ziyaret edin.
 
+**Not**: Forum platformları şu anda bakımda.
+
 ### ProfyMob yasal mı?
 Evet, ProfyMob tamamen yasal bir yazılımdır. Ancak backlink oluştururken:
 - Spam içerik üretmeyin
@@ -27,7 +29,8 @@ Hayır, şu anda sadece Windows desteklenmektedir.
 ## 💰 Lisans ve Fiyatlandırma
 
 ### Lisans fiyatları ne kadar?
-Fiyatlandırma için [repoce.com](https://repoce.com) adresini ziyaret edin. Aylık, 3 aylık, yıllık ve ömür boyu lisans seçenekleri mevcuttur.
+Fiyatlandırma detayları için [repoce.com](https://repoce.com) adresini ziyaret edin. 
+Lisans seçenekleri: 1 ay, 3 ay, 6 ay, 12 ay (yıllık) ve sınırsız (ömür boyu) paketleri mevcuttur.
 
 ### Ücretsiz deneme var mı?
 Detaylar için website'ı ziyaret edin.
@@ -64,36 +67,25 @@ ProfyMob güvenlidir, false positive bir uyarıdır:
 
 **Zorunlu**:
 - Captcha servisi (2captcha, Anti-Captcha, CapSolver veya CapMonster)
+- Email servisi (xmailhub.net, lution.ee veya zeus-x.ru)
 
 **Opsiyonel**:
-- Email servisi (xmailhub.net önerilir, mail.tm ücretsiz kullanılabilir)
 - Proxy (büyük miktarda işlem yapıyorsanız önerilir)
 
 ## 📧 Captcha ve Email Servisleri
 
 ### Hangi captcha servisini seçmeliyim?
-**Bütçe öncelikli**: CapMonster.cloud (~$1.5/1000)
-**Hız öncelikli**: 2captcha.com
-**Dengeli**: CapSolver.com
+Tüm desteklenen captcha servisleri (2captcha, Anti-Captcha, CapSolver, CapMonster) iyi çalışmaktadır.
+Detaylı karşılaştırma için servis sağlayıcılarının web sitelerini ziyaret edebilirsiniz.
 
-### mail.tm yeterli mi yoksa ücretli email servisi mi almalıyım?
-**mail.tm** çoğu kullanım için yeterlidir:
-- ✅ Ücretsiz
-- ✅ API key gerektirmez
-- ❌ Bazen yavaş
-- ❌ Bazen email gelmeyebilir
-
-**Ücretli servisler** (xmailhub.net, lution.ee):
-- ✅ Çok hızlı (saniyeler)
-- ✅ %99 güvenilir
-- ❌ Ücretli
-
-**Öneri**: İlk başta mail.tm deneyin, sorun yaşarsanız ücretli servise geçin.
+### Email servisi seçmek zorunda mıyım?
+Evet, ProfyMob'u kullanmak için bir email servisi seçmeniz gerekmektedir.
+Önerilen servisler: xmailhub.net, lution.ee, zeus-x.ru
 
 ### Captcha bakiyem ne kadar olmalı?
 Platform başına ortalama 1-2 captcha çözülür. 
-- 100 backlink için: ~$0.15-$0.30
-- Başlangıç için $5-10 yeterlidir
+- 100 backlink için: Yaklaşık 100-200 captcha
+- Başlangıç için yeterli bakiye yüklemeniz önerilir
 
 ## 🔄 Proxy Kullanımı
 
@@ -122,9 +114,10 @@ socks5://username:password@ip:port
 - **50+ backlink**: 10-20 proxy
 
 ### Proxy nereden satın alabilirim?
-- Proxy6.net
-- ProxyScrape.com
-- Webshare.io
+Önerilen proxy servisleri:
+1. [we1.town](https://we1.town)
+2. [dataimpulse.com](https://dataimpulse.com)
+3. [proxycin.com](https://proxycin.com)
 
 ## 📋 Proje Yönetimi
 
@@ -132,19 +125,17 @@ socks5://username:password@ip:port
 Sınırsız proje oluşturabilirsiniz.
 
 ### Proje nedir?
-Proje, backlink'leriniz için kullanılacak bilgilerin (isim, açıklama, linkler, içerik vb.) toplandığı bir profil şablonudur.
+Proje, backlink'leriniz için kullanılacak bir organizasyon birimidir. Her proje için ayrı ayarlar ve veriler kaydedilebilir.
+
+### Proje oluştururken ne bilgiler gerekli?
+Sadece **Proje Adı** girmeniz yeterlidir. 
+Diğer tüm bilgileri (kullanıcı adı, açıklama, linkler vb.) ilgili backlink sayfalarında girip "Ayarları Kaydet" butonu ile projeye kaydedebilirsiniz.
 
 ### Her site için farklı proje mi kullanmalıyım?
 Evet, önerilir. Böylece:
 - Her site için özelleştirilmiş içerik
 - Daha doğal backlink profili
 - Platform banlanma riski azalır
-
-### Proje fotoğrafı zorunlu mu?
-Hayır, opsiyoneldir. Ancak profil fotoğrafı kullanmak:
-- Daha profesyonel görünüm
-- Daha yüksek güvenilirlik
-- Bazı platformlarda zorunlu olabilir
 
 ## 🎯 Backlink Oluşturma
 
@@ -161,7 +152,8 @@ Hayır, opsiyoneldir. Ancak profil fotoğrafı kullanmak:
 **Sosyal İşaretleme**: Hızlı indeksleme
 **Web 2.0**: En değerli, içerik gerektirir
 **Yorum**: Alakalı trafikten gelir
-**Forum**: Niche targetlama için ideal
+
+**Not**: Forum platformları şu anda bakımda.
 
 **Öneri**: Hepsini karıştırın (çeşitlilik önemli)
 
@@ -198,10 +190,17 @@ ProfyMob her iki tipte de backlink oluşturur. Platformlar kendi politikalarına
 2. İnternet yavaş
 3. Platform email göndermiyor
 
+### "Email doğrulama zaman aşımı"
+**Sebepler**:
+1. Email gelmedi (60 saniye timeout)
+2. İnternet yavaş
+3. Platform email göndermiyor
+
 **Çözüm**:
-1. Ücretli email servisi kullanın
+1. Email servisi bakiyenizi kontrol edin
 2. İnternet hızınızı kontrol edin
 3. Tekrar deneyin
+4. Farklı platform deneyin
 
 ### "Proxy bağlantı hatası"
 **Sebepler**:
@@ -218,7 +217,7 @@ ProfyMob her iki tipte de backlink oluşturur. Platformlar kendi politikalarına
 **Sebepler**:
 1. İnternet yok
 2. Firewall engelliyor
-3. Backend sunucusuna erişilemiyor
+3. Sunucuya erişilemiyor
 
 **Çözüm**:
 1. İnternet bağlantınızı test edin
@@ -233,9 +232,9 @@ ProfyMob her iki tipte de backlink oluşturur. Platformlar kendi politikalarına
 - **Toplam**: 2-5 dakika/backlink
 
 **Hızlandırma**:
-- Ücretli email servisi
-- Hızlı captcha servisi (2captcha)
-- İyi internet bağlantısı
+- Hızlı internet bağlantısı
+- Güvenilir email servisi
+- Hızlı captcha servisi
 
 ### Başarı oranı düşük
 **Sebepler**:
@@ -273,7 +272,7 @@ Veya `reports.json` dosyasını silebilirsiniz (tüm raporlar silinir).
 ### Verilerim güvende mi?
 Evet:
 - Tüm veriler **sadece bilgisayarınızda** saklanır
-- Sunucuya gönderilmez (lisans doğrulama hariç)
+- Lisans doğrulama dışında sunucuya veri gönderilmez
 - config.json ve reports.json local dosyalardır
 
 ### Oluşturduğum hesaplar bana ait mi?
@@ -286,7 +285,7 @@ Evet, oluşturulan tüm hesaplar size aittir:
 
 ### ProfyMob beni takip ediyor mu?
 Hayır, sadece:
-- Lisans doğrulama (backend.repoce.com)
+- Lisans doğrulama
 - Sürüm kontrolü (güncellemeleri almak için)
 
 Hiçbir kişisel veri veya backlink bilgisi paylaşılmaz.
@@ -328,8 +327,6 @@ Hiçbir kişisel veri veya backlink bilgisi paylaşılmaz.
 ### Destek nasıl alabilirim?
 1. **Dokümantasyon**: Önce bu dokümanları okuyun
 2. **Website**: [repoce.com](https://repoce.com)
-3. **Email**: support@repoce.com
-4. **Yanıt süresi**: 24 saat içinde
 
 ### Hangi durumlarda destek almalıyım?
 - Teknik hatalar (crash, açılmama vb.)
