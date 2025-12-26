@@ -7,12 +7,11 @@
 ## 🎯 Ne Yapar?
 
 ProfyMob ile:
-
-* ✅ **70+ Platformda Profil Oluşturma**: Dev.to, WordPress, Disqus, Pinterest, Tumblr ve daha fazlası
-* ✅ **Sosyal İşaretleme**: Backlink'lerinizi sosyal medya platformlarında paylaşma
-* ✅ **Web 2.0 Blog Yazıları**: Otomatik blog yazısı oluşturma ve yayınlama
-* ✅ **WordPress Yorum**: Blog yazılarına otomatik yorum bırakma
-* ✅ **Detaylı Raporlama**: Oluşturulan tüm linklerin Excel ve PDF raporları
+- ✅ **70+ Platformda Profil Oluşturma**: Dev.to, WordPress, Disqus, Pinterest, Tumblr ve daha fazlası
+- ✅ **Sosyal İşaretleme**: Backlink'lerinizi sosyal medya platformlarında paylaşma
+- ✅ **Web 2.0 Blog Yazıları**: Otomatik blog yazısı oluşturma ve yayınlama
+- ✅ **WordPress Yorum**: Blog yazılarına otomatik yorum bırakma
+- ✅ **Detaylı Raporlama**: Oluşturulan tüm linklerin Excel ve PDF raporları
 
 ## 🚀 Hızlı Başlangıç
 
@@ -24,76 +23,73 @@ ProfyMob ile:
 
 ## 📖 Dokümantasyon İçeriği
 
-### [Başlangıç](docs/getting-started/installation.md)
+### [Başlangıç](getting-started/installation.md)
+- Kurulum adımları
+- İlk kullanım ve ayarlar
+- Lisans aktivasyonu
 
-* Kurulum adımları
-* İlk kullanım ve ayarlar
-* Lisans aktivasyonu
+### [Kullanım Kılavuzu](user-guide/interface.md)
+- Arayüz tanıtımı
+- Proje yönetimi
+- Backlink türleri (Profil, Sosyal, Web 2.0, Yorum, Forum)
+- Rapor oluşturma ve dışa aktarma
 
-### [Kullanım Kılavuzu](docs/user-guide/interface.md)
+### [Ayarlar ve Yapılandırma](configuration/captcha-services.md)
+- Captcha servisleri kurulumu
+- Email servisleri kurulumu
+- Proxy ayarları
 
-* Arayüz tanıtımı
-* Proje yönetimi
-* Backlink türleri (Profil, Sosyal, Web 2.0, Yorum, Forum)
-* Rapor oluşturma ve dışa aktarma
+### [Platform Listesi](platforms/supported-platforms.md)
+- Desteklenen 70+ platform
+- Platform özellikleri
 
-### [Ayarlar ve Yapılandırma](docs/configuration/captcha-services.md)
-
-* Captcha servisleri kurulumu
-* Email servisleri kurulumu
-* Proxy ayarları
-
-### [Platform Listesi](docs/platforms/supported-platforms.md)
-
-* Desteklenen 70+ platform
-* Platform özellikleri
-
-### [Yardım ve Sorun Giderme](docs/reference/faq.md)
-
-* Sık sorulan sorular
-* Hata mesajları ve çözümleri
-* Sürüm notları
+### [Yardım ve Sorun Giderme](reference/faq.md)
+- Sık sorulan sorular
+- Hata mesajları ve çözümleri
+- Sürüm notları
 
 ## 💡 Sistem Gereksinimleri
 
-| Gereksinim          | Minimum                                                            | Önerilen            |
-| ------------------- | ------------------------------------------------------------------ | ------------------- |
-| **İşletim Sistemi** | Windows 10 (64-bit)                                                | Windows 11 (64-bit) |
-| **RAM**             | 4GB                                                                | 8GB                 |
-| **Disk Alanı**      | 500MB                                                              | 1GB                 |
-| **İnternet**        | Stabil ADSL                                                        | Fiber               |
-| **Captcha Servisi** | Gerekli (2captcha, Anti-Captcha, CapSolver veya CapMonster)        | -                   |
-| **Email Servisi**   | Opsiyonel (xmailhub.net önerilir, ücretsiz mail.tm kullanılabilir) | -                   |
+| Gereksinim | Minimum | Önerilen |
+|-----------|---------|----------|
+| **İşletim Sistemi** | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| **RAM** | 4GB | 8GB |
+| **Disk Alanı** | 500MB | 1GB |
+| **İnternet** | Stabil ADSL | Fiber |
+| **Captcha Servisi** | Gerekli (2captcha, Anti-Captcha, CapSolver veya CapMonster) | - |
+| **Email Servisi** | Gerekli (xmailhub.net, lution.ee veya zeus-x.ru) | - |
 
 ## 🔧 Gerekli Servisler
 
 ProfyMob'u kullanmak için aşağıdaki servislerden **en az birini** almanız gerekmektedir:
 
 ### Captcha Çözüm Servisleri (Birini Seçin)
+| Servis | Link |
+|--------|------|
+| **2captcha.com** | [2captcha.com](https://2captcha.com) |
+| **Anti-Captcha** | [anti-captcha.com](https://anti-captcha.com) |
+| **CapSolver** | [capsolver.com](https://capsolver.com) |
+| **CapMonster** | [capmonster.cloud](https://capmonster.cloud) |
 
-| Servis           | Fiyat               | Link                                         |
-| ---------------- | ------------------- | -------------------------------------------- |
-| **2captcha.com** | \~$3/1000 captcha   | [2captcha.com](https://2captcha.com)         |
-| **Anti-Captcha** | \~$2/1000 captcha   | [anti-captcha.com](https://anti-captcha.com) |
-| **CapSolver**    | \~$2/1000 captcha   | [capsolver.com](https://capsolver.com)       |
-| **CapMonster**   | \~$1.5/1000 captcha | [capmonster.cloud](https://capmonster.cloud) |
+### Email Servisleri (Birini Seçin)
+| Servis | Link |
+|--------|------|
+| **xmailhub.net** | [xmailhub.net](https://xmailhub.net) |
+| **lution.ee** | [lution.ee](https://lution.ee) |
+| **zeus-x.ru** | [zeus-x.ru](https://zeus-x.ru) |
 
-### Email Servisleri (Opsiyonel)
-
-| Servis           | Fiyat    | Özellik                           | Link                                 |
-| ---------------- | -------- | --------------------------------- | ------------------------------------ |
-| **mail.tm**      | Ücretsiz | API key gerektirmez, daha yavaş   | Otomatik                             |
-| **xmailhub.net** | Ücretli  | Hızlı, güvenilir, API key gerekli | [xmailhub.net](https://xmailhub.net) |
-| **lution.ee**    | Ücretli  | Hızlı, API key gerekli            | [lution.ee](https://lution.ee)       |
-| **zeus-x.ru**    | Ücretli  | Hızlı, API key gerekli            | [zeus-x.ru](https://zeus-x.ru)       |
-
-**Not**: mail.tm ücretsiz olduğu için tercih edilebilir, ancak ücretli servisler daha hızlı ve stabil çalışır.
+### Proxy Servisleri (Önerilir)
+| Servis | Link |
+|--------|------|
+| **we1.town** | [we1.town](https://we1.town) |
+| **dataimpulse.com** | [dataimpulse.com](https://dataimpulse.com) |
+| **proxycin.com** | [proxycin.com](https://proxycin.com) |
 
 ## 📞 Destek ve İletişim
 
-* **Web Sitesi**: [repoce.com](https://repoce.com)
-* **Lisans Satın Al**: [repoce.com](https://repoce.com)
-* **Sürüm**: v1.0.0
+- **Web Sitesi**: [repoce.com](https://repoce.com)
+- **Lisans Satın Al**: [repoce.com](https://repoce.com)
+- **Sürüm**: v1.0.0
 
 ## ⚠️ Önemli Notlar
 
@@ -105,8 +101,8 @@ ProfyMob'u kullanmak için aşağıdaki servislerden **en az birini** almanız g
 
 ## 📚 Başlarken
 
-İlk adım olarak [Kurulum Kılavuzu](docs/getting-started/installation.md) sayfasını ziyaret edin.
+İlk adım olarak [Kurulum Kılavuzu](getting-started/installation.md) sayfasını ziyaret edin.
 
-***
+---
 
 **© 2024 ProfyMob - Tüm Hakları Saklıdır**
