@@ -61,38 +61,25 @@ Aşağıdaki servislerden **birinin** API anahtarını almanız gerekmektedir:
 - **Web**: [2captcha.com](https://2captcha.com)
 - **Kayıt**: Üye olun ve hesabınıza para yükleyin
 - **API Key**: Dashboard > API Key bölümünden alın
-- **Fiyat**: ~$3/1000 captcha
 
 #### Anti-Captcha.com
 - **Web**: [anti-captcha.com](https://anti-captcha.com)
 - **Kayıt**: Üye olun ve bakiye ekleyin
 - **API Key**: Settings > API Key
-- **Fiyat**: ~$2/1000 captcha
 
 #### CapSolver.com
 - **Web**: [capsolver.com](https://capsolver.com)
 - **Kayıt**: Kayıt olun ve bakiye yükleyin
 - **API Key**: Dashboard'dan alın
-- **Fiyat**: ~$2/1000 captcha
 
 #### CapMonster.cloud
 - **Web**: [capmonster.cloud](https://capmonster.cloud)
 - **Kayıt**: Hesap oluşturun
 - **API Key**: Profile > API Key
-- **Fiyat**: ~$1.5/1000 captcha (en ucuz)
 
-**Önerilen**: Bütçeniz kısıtlıysa **CapMonster.cloud** en uygun maliyetli seçenektir.
+### 2. Email Servisi (ZORUNLU)
 
-### 2. Email Servisi (OPSİYONEL)
-
-Email doğrulaması gereken platformlar için:
-
-#### Ücretsiz Seçenek: mail.tm
-- **API Key**: Gerektirmez, otomatik çalışır
-- **Avantaj**: Tamamen ücretsiz
-- **Dezavantaj**: Daha yavaş, bazen email gelmeyebilir
-
-#### Ücretli Seçenekler (Önerilir)
+Email doğrulaması gereken platformlar için **mutlaka** bir email servisi seçmelisiniz:
 
 **xmailhub.net** (Önerilen)
 - **Web**: [xmailhub.net](https://xmailhub.net)
@@ -102,12 +89,12 @@ Email doğrulaması gereken platformlar için:
 **lution.ee**
 - **Web**: [lution.ee](https://lution.ee)
 - **Özellik**: Hızlı email teslimi
+- **API Key**: Kayıt sonrası alın
 
 **zeus-x.ru**
 - **Web**: [zeus-x.ru](https://zeus-x.ru)
 - **Özellik**: Rus platformlar için ideal
-
-**Not**: mail.tm çoğu zaman yeterlidir, ancak yoğun kullanımda ücretli servis kullanmanız önerilir.
+- **API Key**: Dashboard'dan alın
 
 ### 3. Proxy (OPSİYONEL AMA ÖNERİLİR)
 
@@ -121,10 +108,10 @@ Büyük miktarda işlem yapacaksanız proxy kullanımı önerilir:
   - `http://ip:port`
   - `socks5://ip:port`
 
-**Proxy Sağlayıcıları**:
-- [Proxy6.net](https://proxy6.net)
-- [ProxyScrape.com](https://proxyscrape.com)
-- [Webshare.io](https://webshare.io)
+**Önerilen Proxy Servisleri**:
+1. [we1.town](https://we1.town)
+2. [dataimpulse.com](https://dataimpulse.com)
+3. [proxycin.com](https://proxycin.com)
 
 ## ✅ Kurulum Tamamlandı
 
