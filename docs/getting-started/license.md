@@ -6,12 +6,12 @@ ProfyMob lisanslı bir yazılımdır. Kullanmak için geçerli bir lisans anahta
 
 ### Lisans Türleri
 
-| Lisans Tipi | Süre | Fiyat | Özellikler |
-|-------------|------|-------|-----------|
-| **Aylık** | 30 gün | $XX | 1 bilgisayar, tüm platformlar |
-| **3 Aylık** | 90 gün | $XX | 1 bilgisayar, tüm platformlar, %15 indirim |
-| **Yıllık** | 365 gün | $XX | 1 bilgisayar, tüm platformlar, %30 indirim |
-| **Ömür Boyu** | Sınırsız | $XX | 1 bilgisayar, tüm platformlar, tüm güncellemeler |
+| Lisans Tipi   | Süre     | Fiyat | Özellikler                                       |
+| ------------- | -------- | ----- | ------------------------------------------------ |
+| **Aylık**     | 30 gün   | $XX   | 1 bilgisayar, tüm platformlar                    |
+| **3 Aylık**   | 90 gün   | $XX   | 1 bilgisayar, tüm platformlar, %15 indirim       |
+| **Yıllık**    | 365 gün  | $XX   | 1 bilgisayar, tüm platformlar, %30 indirim       |
+| **Ömür Boyu** | Sınırsız | $XX   | 1 bilgisayar, tüm platformlar, tüm güncellemeler |
 
 ### Satın Alma Adımları
 
@@ -22,10 +22,11 @@ ProfyMob lisanslı bir yazılımdır. Kullanmak için geçerli bir lisans anahta
 5. Ödeme tamamlandıktan sonra lisans anahtarınız email'inize gelecektir
 
 **Kabul Edilen Ödeme Yöntemleri**:
-- Kredi Kartı (Visa, MasterCard, American Express)
-- PayPal
-- Kripto Para (Bitcoin, Ethereum, USDT)
-- Banka Havalesi (Türkiye için)
+
+* Kredi Kartı (Visa, MasterCard, American Express)
+* PayPal
+* Kripto Para (Bitcoin, Ethereum, USDT)
+* Banka Havalesi (Türkiye için)
 
 ## 🔑 Lisans Aktivasyonu
 
@@ -36,8 +37,6 @@ ProfyMob lisanslı bir yazılımdır. Kullanmak için geçerli bir lisans anahta
 3. Email'inize gelen lisans anahtarını kopyalayın
 4. Metin kutusuna yapıştırın
 5. **"Giriş Yap"** butonuna tıklayın
-
-![Lisans Girişi](../images/license-input.png)
 
 **Lisans Format**: `XXXX-XXXX-XXXX-XXXX`
 
@@ -63,16 +62,17 @@ HWID (Hardware ID), bilgisayarınızın benzersiz kimliğidir. ProfyMob lisansı
 ### Nasıl Oluşturulur?
 
 HWID şu bilgilerden oluşturulur:
-- CPU ID
-- Motherboard Serial Number
-- MAC Address
-- Windows Ürün Anahtarı
+
+* CPU ID
+* Motherboard Serial Number
+* MAC Address
+* Windows Ürün Anahtarı
 
 ### Neden Gerekli?
 
-- **Güvenlik**: Lisansınızın başkaları tarafından kullanılmasını önler
-- **Koruma**: Her lisans sadece 1 bilgisayarda çalışabilir
-- **Yönetim**: Lisans durumunuzu merkezi olarak yönetebilirsiniz
+* **Güvenlik**: Lisansınızın başkaları tarafından kullanılmasını önler
+* **Koruma**: Her lisans sadece 1 bilgisayarda çalışabilir
+* **Yönetim**: Lisans durumunuzu merkezi olarak yönetebilirsiniz
 
 ## 📊 Lisans Durumu Kontrolü
 
@@ -91,12 +91,12 @@ Durum: ✅ Aktif
 
 ### Durum Göstergeleri
 
-| Gösterge | Anlamı |
-|----------|--------|
-| ✅ **Aktif** | Lisansınız geçerli ve kullanılabilir |
-| ⚠️ **Son 7 Gün** | Lisansınızın süresi 7 gün içinde dolacak |
-| ❌ **Süresi Dolmuş** | Lisansınızı yenilemeniz gerekiyor |
-| 🔒 **Bloke** | Lisansınız askıya alınmış (destek ile iletişime geçin) |
+| Gösterge            | Anlamı                                                 |
+| ------------------- | ------------------------------------------------------ |
+| ✅ **Aktif**         | Lisansınız geçerli ve kullanılabilir                   |
+| ⚠️ **Son 7 Gün**    | Lisansınızın süresi 7 gün içinde dolacak               |
+| ❌ **Süresi Dolmuş** | Lisansınızı yenilemeniz gerekiyor                      |
+| 🔒 **Bloke**        | Lisansınız askıya alınmış (destek ile iletişime geçin) |
 
 ## 🔄 Lisans Yenileme
 
@@ -146,8 +146,8 @@ Windows format attıysanız:
 
 ### "Geçersiz lisans anahtarı"
 
-**Sebep**: Yanlış format veya hatalı karakter
-**Çözüm**:
+**Sebep**: Yanlış format veya hatalı karakter **Çözüm**:
+
 1. Lisans anahtarını tekrar kopyalayın
 2. Boşluk veya özel karakter olmadığından emin olun
 3. Büyük/küçük harf önemli değil
@@ -155,24 +155,24 @@ Windows format attıysanız:
 
 ### "Lisans başka bilgisayarda kullanılıyor"
 
-**Sebep**: Lisans farklı bir HWID'ye bağlı
-**Çözüm**:
+**Sebep**: Lisans farklı bir HWID'ye bağlı **Çözüm**:
+
 1. repoce.com'dan HWID sıfırlama yapın
 2. 10 dakika bekleyin
 3. Tekrar giriş yapın
 
 ### "Lisans süresi dolmuş"
 
-**Sebep**: Lisans kullanım süresi sona ermiş
-**Çözüm**:
+**Sebep**: Lisans kullanım süresi sona ermiş **Çözüm**:
+
 1. repoce.com'dan lisans yenileme yapın
 2. Ödemeyi tamamlayın
 3. Yazılımı yeniden başlatın
 
 ### "İnternet bağlantısı hatası"
 
-**Sebep**: Backend sunucusuna erişilemiyor
-**Çözüm**:
+**Sebep**: Backend sunucusuna erişilemiyor **Çözüm**:
+
 1. İnternet bağlantınızı kontrol edin
 2. Firewall/Antivirus ayarlarınızı kontrol edin
 3. `backend.repoce.com` adresine erişebildiğinizden emin olun
@@ -180,8 +180,8 @@ Windows format attıysanız:
 
 ### "Lisans bloke edilmiş"
 
-**Sebep**: Lisans kuralları ihlal edilmiş (paylaşım, kötüye kullanım vb.)
-**Çözüm**:
+**Sebep**: Lisans kuralları ihlal edilmiş (paylaşım, kötüye kullanım vb.) **Çözüm**:
+
 1. repoce.com destek ile iletişime geçin
 2. Durumu açıklayın
 3. Destek ekibi inceleme yapacaktır
@@ -197,11 +197,7 @@ Windows format attıysanız:
 
 ### Yasak Eylemler
 
-❌ Lisansı başkalarıyla paylaşmak
-❌ Birden fazla bilgisayarda kullanmak
-❌ Lisansı satmak veya kiralamak
-❌ HWID sınırlamalarını bypass etmeye çalışmak
-❌ Yazılımı tersine mühendislik yapmak
+❌ Lisansı başkalarıyla paylaşmak ❌ Birden fazla bilgisayarda kullanmak ❌ Lisansı satmak veya kiralamak ❌ HWID sınırlamalarını bypass etmeye çalışmak ❌ Yazılımı tersine mühendislik yapmak
 
 **Uyarı**: Bu eylemlerin tespiti durumunda lisansınız kalıcı olarak bloke edilecektir.
 
@@ -209,15 +205,16 @@ Windows format attıysanız:
 
 ### Self-Servis
 
-- **Portal**: [repoce.com](https://repoce.com)
-- **İşlemler**: HWID sıfırlama, lisans yenileme, fatura görüntüleme
+* **Portal**: [repoce.com](https://repoce.com)
+* **İşlemler**: HWID sıfırlama, lisans yenileme, fatura görüntüleme
 
 ### Canlı Destek
 
 Lisans ile ilgili sorunlarınız için:
-- **Web**: repoce.com/destek
-- **Email**: support@repoce.com
-- **Yanıt Süresi**: 24 saat içinde
+
+* **Web**: repoce.com/destek
+* **Email**: support@repoce.com
+* **Yanıt Süresi**: 24 saat içinde
 
 ### Yaygın Destek Talepleri
 
@@ -231,41 +228,47 @@ Lisans ile ilgili sorunlarınız için:
 
 ### İade Politikası
 
-- **14 Gün**: Satın alma tarihinden itibaren 14 gün içinde iade yapabilirsiniz
-- **Şartlar**: Yazılım kullanılmamış olmalı (ilk login sonrası iade geçersiz)
-- **İşlem Süresi**: 5-7 iş günü
+* **14 Gün**: Satın alma tarihinden itibaren 14 gün içinde iade yapabilirsiniz
+* **Şartlar**: Yazılım kullanılmamış olmalı (ilk login sonrası iade geçersiz)
+* **İşlem Süresi**: 5-7 iş günü
 
 ### İndirim Kodları
 
 Özel günlerde ve kampanyalarda indirim kodları sunulmaktadır:
-- Newsletter'a abone olun
-- Sosyal medya hesaplarımızı takip edin
-- repoce.com/kampanyalar sayfasını kontrol edin
+
+* Newsletter'a abone olun
+* Sosyal medya hesaplarımızı takip edin
+* repoce.com/kampanyalar sayfasını kontrol edin
 
 ## ❓ Sık Sorulan Sorular
 
 ### Lisansım birden fazla bilgisayarda çalışır mı?
+
 Hayır, her lisans sadece 1 bilgisayarda çalışabilir. Birden fazla bilgisayarda kullanmak için ek lisans satın almanız gerekmektedir.
 
 ### Format attıktan sonra lisansım çalışır mı?
+
 Evet, ancak HWID değişmiş olabilir. HWID sıfırlama yapmanız gerekebilir.
 
 ### Lisans sürem bittikten sonra oluşturduğum backlink'ler silinir mi?
+
 Hayır, oluşturduğunuz backlink'ler platformlarda kalır. Sadece yeni backlink oluşturamazsınız.
 
 ### Ömür boyu lisans gerçekten ömür boyu mu?
+
 Evet, bir kez ödeme yaparsınız ve yazılımı sonsuza kadar kullanabilirsiniz. Tüm güncellemeler dahildir.
 
 ### Lisansımı başka birine devredebilir miyim?
+
 Lisans transferi ücretlidir. Destek ekibi ile iletişime geçin.
 
 ## 📚 İlgili Sayfalar
 
-- [Kurulum](installation.md)
-- [İlk Kullanım](first-use.md)
-- [Sık Sorulan Sorular](../reference/faq.md)
-- [Hata Kodları](../reference/error-codes.md)
+* [Kurulum](installation.md)
+* [İlk Kullanım](first-use.md)
+* [Sık Sorulan Sorular](../reference/faq.md)
+* [Hata Kodları](../reference/error-codes.md)
 
----
+***
 
 **Önceki**: [İlk Kullanım](first-use.md) | **Sonraki**: [Arayüz Tanıtımı](../user-guide/interface.md)
