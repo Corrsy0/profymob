@@ -1,0 +1,2 @@
+# ✨ İlk Kullanım
+

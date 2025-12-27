@@ -1,0 +1,2 @@
+# ❌ Hata Mesajları ve Çözümleri
+
