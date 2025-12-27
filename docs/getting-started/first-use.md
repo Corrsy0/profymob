@@ -101,12 +101,6 @@ Lisans aktivasyonundan sonra ana sayfaya ulaşacaksınız. İlk olarak gerekli a
 
 # HTTP protokolü ile
 http://123.456.789.012:8080
-
-# SOCKS5 protokolü ile
-socks5://123.456.789.012:1080
-
-# Authentication ile SOCKS5
-socks5://username:password@123.456.789.012:1080
 ```
 
 4. **"Kaydet"** butonuna tıklayın
@@ -125,8 +119,6 @@ Birden fazla proxy eklemek için:
 123.456.789.012:8080
 123.456.789.013:8080:user1:pass1
 http://123.456.789.014:8080
-socks5://123.456.789.015:1080
-socks5://user2:pass2@123.456.789.016:1080
 ```
 
 **Not**: Yazılım proxy'leri otomatik olarak rotate eder, her istek farklı proxy kullanır.
