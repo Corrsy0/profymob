@@ -30,27 +30,7 @@ Uzmanlık: On-Page SEO, Technical SEO, Local SEO
 - Alakalı beceriler ekleyin
 - Profesyonel ton kullanın
 
-### 2. Profil Fotoğrafı Kullanın
-
-❌ **Kötü**:
-- Logo kullanmak
-- Stock photo (sık kullanılan)
-- Düşük kaliteli resim
-- İlgisiz görsel
-
-✅ **İyi**:
-- Gerçek insan fotoğrafı
-- Profesyonel görünüm
-- 400x400px boyut
-- JPG/PNG format
-- <2MB dosya boyutu
-
-**Nereden Bulunur?**:
-- Generated.photos (AI generated faces)
-- ThisPersonDoesNotExist.com
-- Fiverr (professional headshots)
-
-### 3. Çeşitlilik Sağlayın
+### 2. Çeşitlilik Sağlayın
 
 ❌ **Kötü**:
 ```
@@ -492,3 +472,4 @@ Bu strateji ile Tier 1 linklerinizin gücünü artırın.
 - [Sık Sorulan Sorular](faq.md)
 - [Platform Listesi](../platforms/supported-platforms.md)
 - [Kullanım Kılavuzu](../user-guide/profile-backlinks.md)
+
