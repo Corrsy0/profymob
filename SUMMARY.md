@@ -4,9 +4,9 @@
 
 ## 🧩 Başlangıç
 
-* [⚙️ Kurulum](getting-started/installation.md)
-* [✨ İlk Kullanım](getting-started/first-use.md)
-* [🔑 Lisans Aktivasyonu](getting-started/license.md)
+* [⚙️ Kurulum](baslangic/kurulum.md)
+* [✨ İlk Kullanım](baslangic/ilk-kullanim.md)
+* [🔑 Lisans Aktivasyonu](baslangic/lisans-aktivasyonu.md)
 
 ## 📖 Kullanım Kılavuzu
 
@@ -21,12 +21,12 @@
 
 ## 🧱 Platform Bilgileri
 
-* [🧩 Desteklenen Platformlar](platforms/supported-platforms.md)
-* [🛠️ Platform Özellikleri](platforms/platform-details.md)
+* [🧩 Desteklenen Platformlar](platform-bilgileri/desteklenen-platformlar.md)
+* [🛠️ Platform Özellikleri](platform-bilgileri/platform-ozellikleri.md)
 
 ## 🆘 Yardım ve Sorun Giderme
 
-* [❓ Sık Sorulan Sorular](reference/faq.md)
-* [❌ Hata Mesajları ve Çözümleri](reference/error-codes.md)
-* [🧾 Sürüm Notları](reference/changelog.md)
-* [💡 İpuçları ve En İyi Uygulamalar](reference/best-practices.md)
+* [❓ Sık Sorulan Sorular](yardim-ve-sorun-giderme/sik-sorulan-sorular.md)
+* [❌ Hata Mesajları ve Çözümleri](yardim-ve-sorun-giderme/hata-mesajlari-ve-cozumleri.md)
+* [🧾 Sürüm Notları](yardim-ve-sorun-giderme/surum-notlari.md)
+* [💡 İpuçları ve En İyi Uygulamalar](yardim-ve-sorun-giderme/ipuclari-ve-en-iyi-uygulamalar.md)
