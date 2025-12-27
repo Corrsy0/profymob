@@ -1,2 +1,0 @@
-# 🧩 Desteklenen Platformlar
-
