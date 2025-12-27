@@ -1,6 +1,6 @@
 # Sürüm Notları
 
-## v1.0.0 (Aralık 2024) - İlk Sürüm 🎉
+## v1.0.0 (29 Aralık 2025) - İlk Sürüm 🎉
 
 ### Yeni Özellikler
 
@@ -47,33 +47,10 @@
 
 * Disqus.com, Answers.com, Generic forums
 
-### Teknik Özellikler
-
-* **Framework**: Flet 0.24+ (Python 3.13)
-* **HTTP Client**: curl\_cffi (Cloudflare bypass)
-* **Build**: Nuitka 2.8.8 (Native EXE)
-* **Raporlama**: ReportLab (PDF), OpenPyxl (Excel)
-* **Session Management**: Otomatik retry (3 deneme)
-* **Browser Impersonation**: safari260\_ios
-
-### Sistem Gereksinimleri
-
-* Windows 10/11 (64-bit)
-* 4GB RAM (8GB önerilir)
-* 500MB disk alanı
-* İnternet bağlantısı (sürekli)
-
-### Bilinen Sorunlar
-
-* Pinterest yüksek captcha oranı (%70 başarı)
-* Patreon strict rate limiting
-* mail.tm bazen yavaş email teslimi
-
 ### Gelecek Sürümler için Planlanan
 
 * [ ] Mac/Linux desteği
 * [ ] Daha fazla platform (Reddit, Medium, Quora vb.)
-* [ ] Toplu işlem modu
 * [ ] Zamanlama (schedule) özelliği
 * [ ] API desteği
 * [ ] Gelişmiş rapor filtreleme
