@@ -1,4 +1,4 @@
-# 🔖 Sosyal İşaretleme
+# Sosyal İşaretleme
 
 Sosyal işaretleme modülü, çeşitli sosyal işaretleme platformlarında otomatik olarak içerik paylaşmanızı sağlar. Bu özellik, web sitenize backlink oluşturmak ve SEO performansınızı artırmak için kullanılır.
 
@@ -8,13 +8,13 @@ Sosyal işaretleme işlemi, belirlediğiniz platformlarda otomatik hesap oluştu
 
 ## Özellikler
 
-- ✅ Çoklu platform desteği
-- ✅ Otomatik hesap oluşturma
-- ✅ Captcha çözümü desteği
-- ✅ Mail doğrulama desteği
-- ✅ Proxy desteği
-- ✅ Toplu işlem yapabilme
-- ✅ Detaylı raporlama
+* ✅ Çoklu platform desteği
+* ✅ Otomatik hesap oluşturma
+* ✅ Captcha çözümü desteği
+* ✅ Mail doğrulama desteği
+* ✅ Proxy desteği
+* ✅ Toplu işlem yapabilme
+* ✅ Detaylı raporlama
 
 ## Kullanım Adımları
 
@@ -26,63 +26,71 @@ Sosyal işaretleme işlemi, belirlediğiniz platformlarda otomatik hesap oluştu
 
 Sosyal işaretleme yapmak istediğiniz platformu seçin:
 
-- **Hepsi**: Tüm desteklenen platformlarda işlem yapar
-- **Tek Platform**: Belirli bir platformda işlem yapar
+* **Hepsi**: Tüm desteklenen platformlarda işlem yapar
+* **Tek Platform**: Belirli bir platformda işlem yapar
 
 ### 3. Form Doldurma
 
 Aşağıdaki bilgileri doldurun:
 
 #### Kullanıcı Adı
-- Oluşturulacak hesaplar için kullanılacak temel kullanıcı adı
-- Sistem otomatik olarak her hesap için benzersiz bir kullanıcı adı oluşturur
+
+* Oluşturulacak hesaplar için kullanılacak temel kullanıcı adı
+* Sistem otomatik olarak her hesap için benzersiz bir kullanıcı adı oluşturur
 
 #### Başlık
-- Paylaşılacak içeriğin başlığı
-- SEO dostu ve çekici bir başlık kullanın
+
+* Paylaşılacak içeriğin başlığı
+* SEO dostu ve çekici bir başlık kullanın
 
 #### İçerik
-- Paylaşılacak içeriğin detayı
-- İçeriğinizde web sitenizin linkini ekleyin
-- Minimum 50, maksimum 500 karakter önerilir
+
+* Paylaşılacak içeriğin detayı
+* İçeriğinizde web sitenizin linkini ekleyin
+* Minimum 50, maksimum 500 karakter önerilir
 
 #### Tekrar Sayısı
-- Her platform için kaç kez işlem yapılacağını belirler
-- Örnek: 5 giriş yaparsanız, her platformda 5 ayrı hesap oluşturulup içerik paylaşılır
+
+* Her platform için kaç kez işlem yapılacağını belirler
+* Örnek: 5 giriş yaparsanız, her platformda 5 ayrı hesap oluşturulup içerik paylaşılır
 
 ### 4. Servis Gereksinimleri
 
 Sosyal işaretleme işlemi için aşağıdaki servislerin yapılandırılmış olması **zorunludur**:
 
 #### Captcha Servisi
-- Ayarlar bölümünden bir captcha servisi seçin
-- API anahtarınızı girin
-- Servis bakiyenizi kontrol edin
+
+* Ayarlar bölümünden bir captcha servisi seçin
+* API anahtarınızı girin
+* Servis bakiyenizi kontrol edin
 
 Desteklenen servisler:
-- 2Captcha
-- Anti-Captcha
-- CapSolver
-- CapMonster
+
+* 2Captcha
+* Anti-Captcha
+* CapSolver
+* CapMonster
 
 #### Mail Servisi
-- Ayarlar bölümünden bir mail servisi seçin
-- API anahtarınızı girin
-- Servis bakiyenizi kontrol edin
+
+* Ayarlar bölümünden bir mail servisi seçin
+* API anahtarınızı girin
+* Servis bakiyenizi kontrol edin
 
 Desteklenen servisler:
-- Temp-Mail.org
-- Guerrilla Mail
-- Mail.tm
+
+* Temp-Mail.org
+* Guerrilla Mail
+* Mail.tm
 
 ### 5. İşlemi Başlatma
 
 "Başlat" butonuna tıklayarak işlemi başlatın. İşlem sırasında:
 
-- Her platform için otomatik hesap oluşturulur
-- Gerekli doğrulamalar yapılır
-- İçerik paylaşılır
-- Sonuçlar raporlanır
+* Her platform için otomatik hesap oluşturulur
+* Gerekli doğrulamalar yapılır
+* İçerik paylaşılır
+* Sonuçlar raporlanır
 
 ### 6. İşlemi Durdurma
 
@@ -92,10 +100,10 @@ Desteklenen servisler:
 
 İşlem tamamlandıktan sonra:
 
-- Başarılı paylaşımlar raporlara kaydedilir
-- Her paylaşım için URL bilgisi saklanır
-- Proje istatistiklerine başarı/başarısızlık puanı eklenir
-- Raporlar sekmesinden detayları görüntüleyebilirsiniz
+* Başarılı paylaşımlar raporlara kaydedilir
+* Her paylaşım için URL bilgisi saklanır
+* Proje istatistiklerine başarı/başarısızlık puanı eklenir
+* Raporlar sekmesinden detayları görüntüleyebilirsiniz
 
 ## Önemli Notlar
 
@@ -108,11 +116,11 @@ Desteklenen servisler:
 
 ### 💡 İpuçları
 
-- İlk başta düşük tekrar sayısı ile test edin
-- İçeriğinizi her platform için optimize edin
-- Farklı zamanlarda işlem yaparak doğal görünün
-- Proxy kullanımı IP engellemelerini önler
-- Raporları düzenli olarak kontrol edin
+* İlk başta düşük tekrar sayısı ile test edin
+* İçeriğinizi her platform için optimize edin
+* Farklı zamanlarda işlem yaparak doğal görünün
+* Proxy kullanımı IP engellemelerini önler
+* Raporları düzenli olarak kontrol edin
 
 ### 🎯 En İyi Uygulamalar
 
@@ -126,24 +134,24 @@ Desteklenen servisler:
 
 ### İşlem Başlamıyor
 
-- Proje seçili olduğundan emin olun
-- Tüm form alanlarının dolu olduğunu kontrol edin
-- Captcha ve mail servisi ayarlarını kontrol edin
-- Servis bakiyelerini kontrol edin
+* Proje seçili olduğundan emin olun
+* Tüm form alanlarının dolu olduğunu kontrol edin
+* Captcha ve mail servisi ayarlarını kontrol edin
+* Servis bakiyelerini kontrol edin
 
 ### Başarısız İşlemler
 
-- İnternet bağlantınızı kontrol edin
-- Proxy ayarlarınızı gözden geçirin
-- Captcha ve mail servis API anahtarlarını doğrulayın
-- Platform geçici olarak erişilemez olabilir
+* İnternet bağlantınızı kontrol edin
+* Proxy ayarlarınızı gözden geçirin
+* Captcha ve mail servis API anahtarlarını doğrulayın
+* Platform geçici olarak erişilemez olabilir
 
 ### Düşük Başarı Oranı
 
-- İçerik kalitesini artırın
-- Farklı kullanıcı adları deneyin
-- Proxy kullanın veya farklı proxy'ler deneyin
-- İşlem hızını azaltın
+* İçerik kalitesini artırın
+* Farklı kullanıcı adları deneyin
+* Proxy kullanın veya farklı proxy'ler deneyin
+* İşlem hızını azaltın
 
 ## Teknik Detaylar
 
@@ -153,19 +161,19 @@ Sistem, plugins/sites/ klasöründe tanımlı tüm sosyal işaretleme platformla
 
 ### Güvenlik
 
-- Tüm işlemler şifreli bağlantı üzerinden yapılır
-- Oluşturulan hesap bilgileri güvenli şekilde saklanır
-- Proxy kullanımı ile IP gizliliği sağlanır
+* Tüm işlemler şifreli bağlantı üzerinden yapılır
+* Oluşturulan hesap bilgileri güvenli şekilde saklanır
+* Proxy kullanımı ile IP gizliliği sağlanır
 
 ### Performans
 
-- Çoklu thread desteği ile hızlı işlem
-- Timeout koruması
-- Otomatik hata yakalama ve devam etme
+* Çoklu thread desteği ile hızlı işlem
+* Timeout koruması
+* Otomatik hata yakalama ve devam etme
 
 ## Sonraki Adımlar
 
-- [Web 2.0 Blog Yazıları](web20-blogs.md) - Web 2.0 platformlarında blog yazısı oluşturma
-- [WordPress Yorum](wordpress-comments.md) - WordPress sitelerine yorum yapma
-- [Forum İşlemleri](forum-operations.md) - Forum sitelerinde profil ve içerik oluşturma
-- [Raporlar](reports.md) - İşlem sonuçlarını görüntüleme
+* [Web 2.0 Blog Yazıları](../kullanim-kilavuzu/web20-blogs.md) - Web 2.0 platformlarında blog yazısı oluşturma
+* [WordPress Yorum](../kullanim-kilavuzu/wordpress-comments.md) - WordPress sitelerine yorum yapma
+* [Forum İşlemleri](../kullanim-kilavuzu/forum-operations.md) - Forum sitelerinde profil ve içerik oluşturma
+* [Raporlar](../kullanim-kilavuzu/reports.md) - İşlem sonuçlarını görüntüleme
