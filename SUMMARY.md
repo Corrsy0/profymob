@@ -1,20 +1,40 @@
-# Table of contents
+# 📚 İçindekiler
 
-* [ProfyMob Kullanım Kılavuzu](README.md)
-* [📚 İçindekiler](docs/SUMMARY.md)
-* [🚀 Hızlı Başlangıç](getting-started/README.md)
-  * [İlk Kullanım](docs/getting-started/first-use.md)
-  * [Kurulum](docs/getting-started/installation.md)
-  * [Lisans Aktivasyonu](docs/getting-started/license.md)
-* [📌 Sonraki Adımlar](user-guide/README.md)
-  * [interface](user-guide/interface.md)
-  * [profile backlinks](user-guide/profile-backlinks.md)
-  * [projects](user-guide/projects.md)
-  * [reports](user-guide/reports.md)
-* [🌐 Desteklenen Platformlar](platforms/README.md)
-  * [Desteklenen Platformlar](docs/platforms/supported-platforms.md)
-* [🆘 Yardım & Referans](reference/README.md)
-  * [İpuçları ve En İyi Uygulamalar](docs/reference/best-practices.md)
-  * [Sürüm Notları](docs/reference/changelog.md)
-  * [Hata Mesajları ve Çözümleri](docs/reference/error-codes.md)
-  * [Sık Sorulan Sorular (SSS)](docs/reference/faq.md)
+## 🚀 Giriş
+
+* 🏠 [Ana Sayfa](../)
+
+## 🧩 Başlangıç
+
+* ⚙️ [Kurulum](getting-started/installation.md)
+* ✨ [İlk Kullanım](getting-started/first-use.md)
+* 🔑 [Lisans Aktivasyonu](getting-started/license.md)
+
+## 📖 Kullanım Kılavuzu
+
+* 🖥️ [Arayüz Tanıtımı](user-guide/interface.md)
+* 📂 [Proje Yönetimi](user-guide/projects.md)
+* 🔗 [Profil Backlink Oluşturma](user-guide/profile-backlinks.md)
+* 🔖 [Sosyal İşaretleme](user-guide/social-bookmarking.md)
+* 📝 [Web 2.0 Blog Yazıları](user-guide/web2-blogs.md)
+* 💬 [WordPress Yorum](user-guide/wordpress-comments.md)
+* 💬 [Forum İşlemleri](user-guide/forum-operations.md)
+* 📊 [Rapor Oluşturma ve Dışa Aktarma](user-guide/reports.md)
+
+## ⚙️ Ayarlar ve Yapılandırma
+
+* 🤖 [Captcha Servisleri](configuration/captcha-services.md)
+* 📧 [Email Servisleri](configuration/email-services.md)
+* 🌐 [Proxy Ayarları](configuration/proxy-settings.md)
+
+## 🧱 Platform Bilgileri
+
+* 🧩 [Desteklenen Platformlar](platforms/supported-platforms.md)
+* 🛠️ [Platform Özellikleri](platforms/platform-details.md)
+
+## 🆘 Yardım ve Sorun Giderme
+
+* ❓ [Sık Sorulan Sorular](reference/faq.md)
+* ❌ [Hata Mesajları ve Çözümleri](reference/error-codes.md)
+* 🧾 [Sürüm Notları](reference/changelog.md)
+* 💡 [İpuçları ve En İyi Uygulamalar](reference/best-practices.md)
