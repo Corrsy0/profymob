@@ -95,16 +95,15 @@ Content Variety:
 
 ### Email Servisi Seçimi
 
-| Servis | Hız | Maliyet | Güvenilirlik |
-|--------|-----|---------|--------------|
-| **xmailhub.net** | 5-10s | Ücretli | %99 |
-| **lution.ee** | 10-15s | Ücretli | %97 |
-| **mail.tm** | 30-60s | Ücretsiz | %85 |
+| Servis | Hız | Güvenilirlik |
+|--------|-----|--------------|
+| **xmailhub.net** | 5-10s | %99 |
+| **lution.ee** | 10-15s | %97 |
 
 **Öneri**:
-- 1-10 backlink/gün: mail.tm yeterli
-- 10-50 backlink/gün: xmailhub.net
-- 50+ backlink/gün: xmailhub.net + lution.ee (rotasyon)
+- Küçük işlemler: Her iki servisi de kullanabilirsiniz
+- Orta seviye: xmailhub.net
+- Yüksek hacim: xmailhub.net + lution.ee (rotasyon)
 
 ### Platform Seçimi
 
@@ -124,74 +123,7 @@ Content Variety:
 2. Patreon.com (10-20 dakika)
 3. TED.com (8-12 dakika)
 
-## 💰 Maliyet Optimizasyonu
-
-### Aylık Backlink Maliyeti Hesaplama
-
-**Senaryo 1: Düşük Bütçe**
-```
-Hedef: 100 backlink/ay
-Captcha: CapMonster ($1.5/1k)
-Email: mail.tm (ücretsiz)
-Proxy: Yok
-
-Maliyet:
-- Captcha: 100 × $0.0015 = $0.15
-- Email: $0
-- Proxy: $0
-- Lisans: $XX/ay
-TOPLAM: ~$XX.15/ay
-```
-
-**Senaryo 2: Orta Bütçe**
-```
-Hedef: 500 backlink/ay
-Captcha: CapSolver ($2/1k)
-Email: xmailhub.net ($X/ay)
-Proxy: 10 proxy ($X/ay)
-
-Maliyet:
-- Captcha: 500 × $0.002 = $1.00
-- Email: $X
-- Proxy: $X
-- Lisans: $XX/ay
-TOPLAM: ~$XX/ay
-```
-
-**Senaryo 3: Yüksek Bütçe**
-```
-Hedef: 2000 backlink/ay
-Captcha: 2captcha ($3/1k)
-Email: xmailhub.net ($X/ay)
-Proxy: 50 proxy ($X/ay)
-
-Maliyet:
-- Captcha: 2000 × $0.003 = $6.00
-- Email: $X
-- Proxy: $X
-- Lisans: $XX/ay
-TOPLAM: ~$XX/ay
-```
-
-### Maliyet Düşürme İpuçları
-
-1. **Captcha Gerektirmeyen Platformları Tercih Edin**:
-   - Telegra.ph, Rentry.co (Captcha yok)
-   - Dev.to, Disqus (Kolay captcha)
-
-2. **mail.tm İle Başlayın**:
-   - İlk 10-20 backlink için ücretsiz
-   - Sorun yaşarsanız ücretli servise geçin
-
-3. **Proxy Rotasyonu**:
-   - Aynı proxy'leri birden fazla proje için kullanın
-   - Residential proxy yerine datacenter (daha ucuz)
-
-4. **Toplu Lisans**:
-   - Yıllık lisans %30 indirim
-   - Ömür boyu lisans en ekonomik (uzun vadede)
-
-## 🔒 Güvenlik ve Gizlilik
+##  Güvenlik ve Gizlilik
 
 ### IP ve Kimlik Koruması
 

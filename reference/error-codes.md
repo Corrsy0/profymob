@@ -125,11 +125,11 @@ Eğer açılmazsa sunucu sorunudur
    Doğru: 123.456.789.012:8080
    Doğru: 123.456.789.012:8080:user:pass
    Doğru: http://123.456.789.012:8080
-   Doğru: socks5://123.456.789.012:1080
    
    Yanlış: 123.456.789.012 (port yok)
    Yanlış: http://123.456.789.012 (port yok)
    ```
+   **Not**: SOCKS5 proxy protokolü desteklenmemektedir.
 3. Kullanıcı adı/şifre doğru mu kontrol edin
 4. Farklı bir proxy deneyin
 
@@ -173,23 +173,15 @@ Açılıyorsa proxy çalışıyor
 
 **Sebepler ve Çözümleri**:
 
-#### 1. Bakiye Yetersiz
-**Kontrol**:
-- Ana sayfa > Captcha servisi > "Bakiye Kontrol" butonu
-
-**Çözüm**:
-- Captcha servisi hesabınıza bakiye yükleyin
-- Minimum $2 bakiye önerilir
-
-#### 2. Yanlış API Key
+#### 1. Yanlış API Key
 **Kontrol**:
 - API key'i captcha servisi dashboard'undan tekrar kopyalayın
 
 **Çözüm**:
 - Ana sayfa > Captcha API Key kutusuna yapıştırın
-- "Bakiye Kontrol" ile test edin
+- Servisi test edin
 
-#### 3. Servis Çökmüş
+#### 2. Servis Çökmüş
 **Kontrol**:
 - Captcha servisi website'ını ziyaret edin
 - Status page'i kontrol edin
@@ -270,15 +262,8 @@ Captcha 120 saniye içinde çözülemedi
 2. Farklı platform deneyin
 
 #### Uzun Vadeli
-1. Ücretli email servisi kullanın:
-   - xmailhub.net (%99 güvenilir)
-   - lution.ee
-   - zeus-x.ru
-2. mail.tm yerine bunları tercih edin
-
-**İstatistikler**:
-- mail.tm başarı: %85
-- xmailhub.net başarı: %99
+1. Email servisi seçeneklerini karşılaştırın
+2. Farklı email servislerini test edin
 
 ---
 

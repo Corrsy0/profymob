@@ -6,8 +6,8 @@
 - ✅ 45+ platform desteği ile piyasaya sürüldü
 - ✅ 5 backlink tipi: Profil, Sosyal, Web 2.0, Yorum, Forum
 - ✅ 4 captcha servisi entegrasyonu (2captcha, Anti-Captcha, CapSolver, CapMonster)
-- ✅ 4 email servisi desteği (mail.tm, xmailhub.net, lution.ee, zeus-x.ru)
-- ✅ Proxy desteği (HTTP, HTTPS, SOCKS5)
+- ✅ 4 email servisi desteği (xmailhub.net, lution.ee, zeus-x.ru)
+- ✅ Proxy desteği (HTTP, HTTPS)
 - ✅ Excel ve PDF rapor export
 - ✅ Çoklu proje yönetimi
 - ✅ Otomatik sürüm kontrolü
@@ -57,7 +57,6 @@
 ### Bilinen Sorunlar
 - Pinterest yüksek captcha oranı (%70 başarı)
 - Patreon strict rate limiting
-- mail.tm bazen yavaş email teslimi
 
 ### Gelecek Sürümler için Planlanan
 - [ ] Mac/Linux desteği

@@ -82,11 +82,6 @@ Detaylı karşılaştırma için servis sağlayıcılarının web sitelerini ziy
 Evet, ProfyMob'u kullanmak için bir email servisi seçmeniz gerekmektedir.
 Önerilen servisler: xmailhub.net, lution.ee, zeus-x.ru
 
-### Captcha bakiyem ne kadar olmalı?
-Platform başına ortalama 1-2 captcha çözülür. 
-- 100 backlink için: Yaklaşık 100-200 captcha
-- Başlangıç için yeterli bakiye yüklemeniz önerilir
-
 ## 🔄 Proxy Kullanımı
 
 ### Proxy kullanmak zorunda mıyım?
@@ -96,16 +91,15 @@ Hayır, zorunlu değildir. Ancak:
 - 50+ backlink: Proxy şiddetle tavsiye edilir
 
 ### Hangi proxy tipini kullanmalıyım?
-- **HTTP/HTTPS**: Çoğu platform için yeterli
-- **SOCKS5**: Daha güvenli, önerilir
+- **HTTP/HTTPS**: Tüm platformlar için desteklenmektedir
+
+**Not**: SOCKS5 proxy protokolü şu an desteklenmemektedir.
 
 ### Proxy formatları nelerdir?
 ```
 ip:port
 ip:port:username:password
 http://ip:port
-socks5://ip:port
-socks5://username:password@ip:port
 ```
 
 ### Kaç tane proxy'ye ihtiyacım var?
@@ -175,14 +169,12 @@ ProfyMob her iki tipte de backlink oluşturur. Platformlar kendi politikalarına
 
 ### "Captcha çözülemedi" hatası
 **Sebepler**:
-1. Bakiye yetersiz
-2. Yanlış API key
-3. Servis çökmüş
+1. Yanlış API key
+2. Servis çökmüş
 
 **Çözüm**:
-1. Bakiyenizi kontrol edin
-2. API key'i kontrol edin
-3. Farklı captcha servisi deneyin
+1. API key'i kontrol edin
+2. Farklı captcha servisi deneyin
 
 ### "Email doğrulama zaman aşımı"
 **Sebepler**:
@@ -197,10 +189,9 @@ ProfyMob her iki tipte de backlink oluşturur. Platformlar kendi politikalarına
 3. Platform email göndermiyor
 
 **Çözüm**:
-1. Email servisi bakiyenizi kontrol edin
-2. İnternet hızınızı kontrol edin
-3. Tekrar deneyin
-4. Farklı platform deneyin
+1. İnternet hızınızı kontrol edin
+2. Tekrar deneyin
+3. Farklı platform deneyin
 
 ### "Proxy bağlantı hatası"
 **Sebepler**:
@@ -310,10 +301,9 @@ Hiçbir kişisel veri veya backlink bilgisi paylaşılmaz.
 6. ❌ Bot gibi davranmak
 
 ### Maliyet optimizasyonu
-1. mail.tm kullanın (ücretsiz)
-2. CapMonster seçin (en ucuz captcha)
-3. Toplu proxy satın alın (daha ucuz)
-4. Yavaş ilerleyin (captcha hatası azalır)
+1. Email servisi seçeneklerini karşılaştırın
+2. Toplu proxy satın alın (daha ucuz)
+3. Yavaş ilerleyin (captcha hatası azalır)
 
 ### SEO optimizasyonu
 1. Anchor text çeşitliliği
