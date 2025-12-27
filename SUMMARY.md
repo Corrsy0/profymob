@@ -2,7 +2,7 @@
 
 ## 🚀 Giriş
 
-* 🏠 [Ana Sayfa](../)
+* 🏠 [Ana Sayfa](readme.md)
 
 ## 🧩 Başlangıç
 
