@@ -23,9 +23,9 @@
 * [🧩 Desteklenen Platformlar](platforms/supported-platforms.md)
 * [🛠️ Platform Özellikleri](platforms/platform-details.md)
 
-## 🆘 Yardım ve Sorun Giderme
+## 🆘 Yardım ve Sorun Giderme <a href="#reference" id="reference"></a>
 
-* [❓ Sık Sorulan Sorular](reference/faq.md)
-* [❌ Hata Mesajları ve Çözümleri](reference/error-codes.md)
-* [🧾 Sürüm Notları](reference/changelog.md)
-* [💡 İpuçları ve En İyi Uygulamalar](reference/best-practices.md)
+* [❓ Sık Sorulan Sorular](reference/sik-sorulan-sorular.md)
+* [❌ Hata Mesajları ve Çözümleri](reference/hata-mesajlari-ve-cozumleri.md)
+* [🧾 Sürüm Notları](reference/surum-notlari.md)
+* [💡 İpuçları ve En İyi Uygulamalar](reference/ipuclari-ve-en-iyi-uygulamalar.md)
