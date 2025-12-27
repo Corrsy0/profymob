@@ -78,13 +78,13 @@ Content Variety:
 | Servis | Hız | Maliyet | Güvenilirlik |
 |--------|-----|---------|--------------|
 | **xmailhub.net** | 5-10s | Ücretli | %99 |
-| **lution.ee** | 10-15s | Ücretli | %97 |
-| **mail.tm** | 30-60s | Ücretsiz | %85 |
+| **lution.ee** | 10-15s | Ücretli | %94 |
+| **zeus-x.ru** | 10-15s | Ücretli | %98 |
 
 **Öneri**:
-- 1-10 backlink/gün: mail.tm yeterli
+- 1-10 backlink/gün: xmailhub.net yeterli
 - 10-50 backlink/gün: xmailhub.net
-- 50+ backlink/gün: xmailhub.net + lution.ee (rotasyon)
+- 50+ backlink/gün: xmailhub.net
 
 ### Platform Seçimi
 
@@ -95,14 +95,14 @@ Content Variety:
 4. Hastebin (1-2 dakika)
 
 **Hızlı Platformlar** (Kolay email doğrulama):
-1. Dev.to (3-5 dakika)
-2. Disqus.com (3-5 dakika)
-3. WordPress.org (4-6 dakika)
+1. Dev.to (1-2 dakika)
+2. Disqus.com (1-2 dakika)
+3. WordPress.org (1-2 dakika)
 
 **Yavaş Platformlar** (Zor captcha/email):
-1. Pinterest.com (10-15 dakika)
-2. Patreon.com (10-20 dakika)
-3. TED.com (8-12 dakika)
+1. Pinterest.com (1-2 dakika)
+2. Patreon.com (1-2 dakika)
+3. TED.com (1-2 dakika)
 
 ## 💰 Maliyet Optimizasyonu
 
@@ -111,45 +111,45 @@ Content Variety:
 **Senaryo 1: Düşük Bütçe**
 ```
 Hedef: 100 backlink/ay
-Captcha: CapMonster ($1.5/1k)
-Email: mail.tm (ücretsiz)
+Captcha: CapMonster ($2/1k)
+Email: xmailhub.net ($4/1k)
 Proxy: Yok
 
 Maliyet:
-- Captcha: 100 × $0.0015 = $0.15
-- Email: $0
+- Captcha: 100 × $0.002 = $0.2
+- Email: $4
 - Proxy: $0
-- Lisans: $XX/ay
-TOPLAM: ~$XX.15/ay
+- Lisans: $X/ay
+TOPLAM: ~$X.2/ay
 ```
 
 **Senaryo 2: Orta Bütçe**
 ```
 Hedef: 500 backlink/ay
 Captcha: CapSolver ($2/1k)
-Email: xmailhub.net ($X/ay)
+Email: xmailhub.net ($4/ay)
 Proxy: 10 proxy ($X/ay)
 
 Maliyet:
 - Captcha: 500 × $0.002 = $1.00
-- Email: $X
+- Email: $4
 - Proxy: $X
-- Lisans: $XX/ay
-TOPLAM: ~$XX/ay
+- Lisans: $X/ay
+TOPLAM: ~$X/ay
 ```
 
 **Senaryo 3: Yüksek Bütçe**
 ```
 Hedef: 2000 backlink/ay
 Captcha: 2captcha ($3/1k)
-Email: xmailhub.net ($X/ay)
+Email: xmailhub.net ($4/ay)
 Proxy: 50 proxy ($X/ay)
 
 Maliyet:
 - Captcha: 2000 × $0.003 = $6.00
 - Email: $X
 - Proxy: $X
-- Lisans: $XX/ay
+- Lisans: $X/ay
 TOPLAM: ~$XX/ay
 ```
 
@@ -159,15 +159,11 @@ TOPLAM: ~$XX/ay
    - Telegra.ph, Rentry.co (Captcha yok)
    - Dev.to, Disqus (Kolay captcha)
 
-2. **mail.tm İle Başlayın**:
-   - İlk 10-20 backlink için ücretsiz
-   - Sorun yaşarsanız ücretli servise geçin
-
-3. **Proxy Rotasyonu**:
+2. **Proxy Rotasyonu**:
    - Aynı proxy'leri birden fazla proje için kullanın
    - Residential proxy yerine datacenter (daha ucuz)
 
-4. **Toplu Lisans**:
+3. **Toplu Lisans**:
    - Yıllık lisans %30 indirim
    - Ömür boyu lisans en ekonomik (uzun vadede)
 
@@ -278,15 +274,7 @@ Yıllık: 7200-18000 backlink
 **Web 2.0 Blog Yazıları**:
 ```
 Uzunluk: 500-1500 kelime
-Format: Markdown/HTML
-Yapı:
-  - Başlık (H1)
-  - Giriş paragrafı
-  - Alt başlıklar (H2, H3)
-  - Maddeler/Listeler
-  - Resimler (2-3 adet)
-  - Sonuç paragrafı
-  - Backlink (doğal yerleştirme)
+Format: Metin
 
 Örnek:
 ---
@@ -472,4 +460,5 @@ Bu strateji ile Tier 1 linklerinizin gücünü artırın.
 - [Sık Sorulan Sorular](faq.md)
 - [Platform Listesi](../platforms/supported-platforms.md)
 - [Kullanım Kılavuzu](../user-guide/profile-backlinks.md)
+
 
