@@ -73,7 +73,6 @@ Desteklenen servisler:
 Desteklenen servisler:
 - Temp-Mail.org
 - Guerrilla Mail
-- Mail.tm
 
 ### 5. İşlemi Başlatma
 

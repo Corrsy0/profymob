@@ -70,7 +70,6 @@ Web 2.0 blog işlemi için aşağıdaki servislerin yapılandırılmış olması
 #### Captcha Servisi
 - Ayarlar bölümünden bir captcha servisi seçin
 - API anahtarınızı girin
-- Yeterli bakiyeniz olduğundan emin olun
 
 Desteklenen servisler:
 - 2Captcha
@@ -81,12 +80,10 @@ Desteklenen servisler:
 #### Mail Servisi
 - Ayarlar bölümünden bir mail servisi seçin
 - API anahtarınızı girin
-- Servis bakiyenizi kontrol edin
 
 Desteklenen servisler:
 - Temp-Mail.org
 - Guerrilla Mail
-- Mail.tm
 
 ### 5. İşlemi Başlatma
 
@@ -160,8 +157,8 @@ Desteklenen servisler:
 ### ⚠️ Gereksinimler
 
 1. **Proje Seçimi**: İşlem başlatmadan önce mutlaka bir proje seçin
-2. **Captcha Servisi**: Zorunlu - API anahtarı ve yeterli bakiye gerekli
-3. **Mail Servisi**: Zorunlu - API anahtarı ve yeterli bakiye gerekli
+2. **Captcha Servisi**: Zorunlu - API anahtarı gerekli
+3. **Mail Servisi**: Zorunlu - API anahtarı gerekli
 4. **İnternet Bağlantısı**: Stabil ve hızlı bağlantı önerilir
 5. **Kaliteli İçerik**: Spam değil, değerli içerik oluşturun
 
@@ -209,12 +206,10 @@ Desteklenen servisler:
 - Proje seçilmemiş
 - Form alanları eksik
 - Captcha/mail servisi yapılandırılmamış
-- Servis bakiyesi yetersiz
 
 **Çözüm:**
 - Tüm gereksinimleri kontrol edin
 - Servis ayarlarını doğrulayın
-- Bakiye durumunu kontrol edin
 
 ### Başarısız İşlemler
 
