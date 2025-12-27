@@ -75,7 +75,7 @@ Oluşturulma: 27.12.2025 14:30:15
 
 Captcha Servisi: 2captcha.com
 Email Servisi: xmailhub.net
-Proxy: socks5://proxy.example.com:1080
+Proxy: http://proxy.example.com:8080
 
 İşlem Adımları:
 1. Email oluşturuldu (8 saniye)

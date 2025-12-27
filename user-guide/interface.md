@@ -54,9 +54,9 @@ Durum: ✅ Aktif
 ip:port
 ip:port:username:password
 http://ip:port
-socks5://ip:port
-socks5://username:password@ip:port
 ```
+
+**Not**: SOCKS5 proxy protokolü şu an desteklenmemektedir.
 
 **Önerilen Proxy Servisleri**:
 - [we1.town](https://we1.town)
