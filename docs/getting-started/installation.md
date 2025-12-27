@@ -101,12 +101,10 @@ Email doğrulaması gereken platformlar için **mutlaka** bir email servisi seç
 Büyük miktarda işlem yapacaksanız proxy kullanımı önerilir:
 
 - **HTTP/HTTPS Proxy**: Genel kullanım için
-- **SOCKS5 Proxy**: Daha güvenli bağlantı için
 - **Formatlar**: 
   - `ip:port`
   - `ip:port:username:password`
   - `http://ip:port`
-  - `socks5://ip:port`
 
 **Önerilen Proxy Servisleri**:
 1. [we1.town](https://we1.town)
@@ -163,3 +161,4 @@ Kurulum sırasında sorun yaşıyorsanız:
 ---
 
 **Sonraki Adım**: [İlk Kullanım Kılavuzu](first-use.md)
+
