@@ -173,8 +173,7 @@ Windows format attıysanız:
 
 1. ✅ Lisans anahtarınızı kimseyle paylaşmayın
 2. ✅ Güvenli bir yerde saklayın (şifre yöneticisi)
-3. ✅ Email'inizi düzenli kontrol edin
-4. ✅ Şüpheli aktivite görürseniz hemen bildirin
+3. ✅ Şüpheli aktivite görürseniz hemen bildirin
 
 ### Yasak Eylemler
 
@@ -191,7 +190,7 @@ Windows format attıysanız:
 ### Self-Servis
 
 - **Portal**: [repoce.com](https://repoce.com)
-- **İşlemler**: HWID sıfırlama, lisans yenileme, fatura görüntüleme
+- **İşlemler**: Lisans yenileme, fatura görüntüleme
 
 ### Destek
 
@@ -201,7 +200,7 @@ Lisans ile ilgili sorunlarınız için:
 
 ### Yaygın Destek Talepleri
 
-1. HWID sıfırlama (self-servis ile yapılabilir)
+1. HWID sıfırlama
 2. Lisans yenileme (self-servis ile yapılabilir)
 3. Fatura talebi
 4. Lisans transferi (ücretli)
