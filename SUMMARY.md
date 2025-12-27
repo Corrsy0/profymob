@@ -14,14 +14,14 @@
 
 ## 📖 Kullanım Kılavuzu
 
-* [Arayüz Tanıtımı](user-guide/interface.md)
-* [Proje Yönetimi](user-guide/projects.md)
-* [Profil Backlink Oluşturma](user-guide/profile-backlinks.md)
+* [🖥️ Arayüz Tanıtımı](user-guide/interface.md)
+* [📁 Proje Yönetimi](user-guide/projects.md)
+* [🔗 Profil Backlink Oluşturma](user-guide/profile-backlinks.md)
 * [🔖 Sosyal İşaretleme](kullanim-kilavuzu/sosyal-isaretleme.md)
 * [📝 Web 2.0 Blog Yazıları](kullanim-kilavuzu/web-2.0-blog-yazilari.md)
 * [💬 WordPress Yorum](kullanim-kilavuzu/wordpress-yorum.md)
 * [💬 Forum İşlemleri](kullanim-kilavuzu/forum-islemleri.md)
-* [Rapor Oluşturma ve Dışa Aktarma](user-guide/reports.md)
+* [📊 Rapor Oluşturma ve Dışa Aktarma](user-guide/reports.md)
 
 ## ⚙️ Ayarlar ve Yapılandırma
 
