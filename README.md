@@ -89,15 +89,15 @@ ProfyMob'u kullanmak için aşağıdaki servislerden **en az birini** almanız g
 
 - **Web Sitesi**: [repoce.com](https://repoce.com)
 - **Lisans Satın Al**: [repoce.com](https://repoce.com)
-- **Sürüm**: v1.0.0
 
 ## ⚠️ Önemli Notlar
 
 1. **Lisans Gerekli**: ProfyMob kullanmak için geçerli bir lisans anahtarı gereklidir
 2. **İnternet Bağlantısı**: Yazılım sürekli internet bağlantısı gerektirir
 3. **Captcha Servisi Zorunlu**: Platformlarda hesap oluşturmak için captcha çözüm servisi şarttır
-4. **Proxy Önerilir**: Büyük miktarda işlem yapıyorsanız proxy kullanımı önerilir
-5. **Güvenlik**: Oluşturulan tüm hesap bilgileri sadece bilgisayarınızda saklanır
+4. **E-Posta Servisi Zorunlu**: Platformlarda hesap oluşturmak için e-posta üretme servisi şarttır
+5. **Proxy Önerilir**: Büyük miktarda işlem yapıyorsanız proxy kullanımı önerilir
+6. **Güvenlik**: Oluşturulan tüm hesap bilgileri sadece bilgisayarınızda saklanır
 
 ## 📚 Başlarken
 
