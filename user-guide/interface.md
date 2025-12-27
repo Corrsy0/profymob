@@ -368,25 +368,6 @@ Her hata için:
 * Çözüm önerisi
 * Yeniden deneme seçeneği
 
-## 🎨 Kısayol Tuşları
-
-**Genel**:
-
-* Ctrl + N: Yeni proje
-* Ctrl + S: Ayarları kaydet
-* Ctrl + R: Raporları görüntüle
-* F5: Sayfayı yenile
-
-**Proje Yönetimi**:
-
-* Ctrl + D: Projeyi sil
-* Ctrl + E: Projeyi düzenle
-
-**İşlem Kontrolü**:
-
-* Ctrl + Enter: İşlemi başlat
-* Esc: İşlemi durdur
-
 ## 💡 Kullanım İpuçları
 
 ### Verimlilik
@@ -401,7 +382,7 @@ Her hata için:
 {% step %}
 ### Proxy Listesi Hazırlayın
 
-İşlem öncesi `proxies.txt` dosyasını doldurun.
+İşlem öncesi proxylerinizi kaydedin.&#x20;
 {% endstep %}
 
 {% step %}

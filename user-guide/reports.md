@@ -10,16 +10,10 @@ Her başarılı backlink oluşturma işlemi için otomatik olarak bir rapor kayd
 
 Rapor İçeriği:
 
-* Platform adı
 * Profile/Hesap URL'si
 * Email adresi
 * Şifre
 * Kullanıcı adı
-* Oluşturulma tarihi ve saati
-* Proje adı
-* Durum (Başarılı/Başarısız)
-* İşlem süresi
-* Kullanılan proxy (varsa)
 
 ### Raporlar Nasıl Saklanır?
 
