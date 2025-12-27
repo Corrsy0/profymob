@@ -1,2 +1,0 @@
-# ❓ Sık Sorulan Sorular
-
