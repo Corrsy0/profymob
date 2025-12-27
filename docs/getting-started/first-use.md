@@ -217,7 +217,6 @@ ProfyMob sol menüde 4 farklı backlink sayfası sunar:
 
 1. **"Raporlar"** sekmesine gidin
 2. Oluşturduğunuz profilleri göreceksiniz:
-   - Profile URL
    - Email
    - Şifre
    - Kullanıcı adı
