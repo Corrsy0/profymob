@@ -101,12 +101,6 @@ Lisansınız farklı bir HWID (Hardware ID) ile eşleştirilmiş
 3. Antivirüs yazılımını geçici olarak kapatın ve deneyin
 4. VPN kullanıyorsanız kapatın
 
-**Test**:
-```
-Tarayıcıda backend.repoce.com adresine gidin
-Eğer açılmazsa sunucu sorunudur
-```
-
 ---
 
 ### "Proxy bağlantı hatası"
@@ -125,7 +119,6 @@ Eğer açılmazsa sunucu sorunudur
    Doğru: 123.456.789.012:8080
    Doğru: 123.456.789.012:8080:user:pass
    Doğru: http://123.456.789.012:8080
-   Doğru: socks5://123.456.789.012:1080
    
    Yanlış: 123.456.789.012 (port yok)
    Yanlış: http://123.456.789.012 (port yok)
@@ -156,12 +149,11 @@ Açılıyorsa proxy çalışıyor
 1. İnternet hızınızı test edin (speedtest.net)
 2. Tekrar deneyin
 3. Farklı platform seçin
-4. Ücretli email servisi kullanın (daha hızlı)
 
 **Normal Timeout Süreleri**:
-- Platform istekleri: 30 saniye
+- Platform istekleri: 10-20 saniye
 - Email doğrulama: 60 saniye
-- Captcha çözümü: 120 saniye
+- Captcha çözümü: 10 saniye
 
 ---
 
@@ -235,17 +227,7 @@ Captcha 120 saniye içinde çözülemedi
 **Hata Kodu**: `EMAIL_CREATION_FAILED`
 
 **Sebepler**:
-
-#### mail.tm Kullanıyorsanız
-**Sebep**: Servis geçici olarak çökmüş
-
-**Çözüm**:
-1. Birkaç dakika bekleyin
-2. Tekrar deneyin
-3. Ücretli email servisi kullanın
-
-#### Ücretli Servis Kullanıyorsanız
-**Sebep**: 
+ 
 - Yanlış API key
 - Bakiye yetersiz
 
@@ -270,15 +252,10 @@ Captcha 120 saniye içinde çözülemedi
 2. Farklı platform deneyin
 
 #### Uzun Vadeli
-1. Ücretli email servisi kullanın:
+Ücretli email servisi kullanın:
    - xmailhub.net (%99 güvenilir)
    - lution.ee
    - zeus-x.ru
-2. mail.tm yerine bunları tercih edin
-
-**İstatistikler**:
-- mail.tm başarı: %85
-- xmailhub.net başarı: %99
 
 ---
 
@@ -506,12 +483,7 @@ Herhangi bir hata için:
 5. ✅ **Yazılımı Güncelle**
    - Yeni sürümü [repoce.com](https://repoce.com)'dan indir
 
-6. ✅ **Log Dosyalarını Kontrol Et**
-   - `ProfyMob.out.txt` (stdout)
-   - `ProfyMob.err.txt` (stderr)
-   - Hata detaylarını bu dosyalarda bulabilirsiniz
-
-7. ✅ **Destek İle İletişime Geç**
+6. ✅ **Destek İle İletişime Geç**
    - Yukarıdakilerin hiçbiri işe yaramadıysa
 
 ---
@@ -559,7 +531,6 @@ Eğer sorununuz bu sayfada yoksa veya çözüm işe yaramadıysa:
 3. **Destek Talebi Açarken Belirtin**:
    - Hata mesajı (tam metin)
    - Ne yaptığınızda hata oluştu
-   - Log dosyaları (ProfyMob.out.txt, ProfyMob.err.txt)
    - Ekran görüntüsü
    - İşletim sistemi ve versiyon
    - ProfyMob versiyonu
@@ -568,4 +539,3 @@ Eğer sorununuz bu sayfada yoksa veya çözüm işe yaramadıysa:
 
 ---
 
-**Son Güncelleme**: Aralık 2024
